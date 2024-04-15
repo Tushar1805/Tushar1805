@@ -5,9 +5,9 @@
 - 🌐 &nbsp; Flutter Developer
 - 📚 &nbsp; Engineering Scholar
 - 💡 &nbsp; Problem Solver
-- ⭐ 5-Star CPP Programmer
+- ⭐ &nbsp; 5-Star CPP Programmer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Flutter developer @Avestan Techanologies
+- 💼 &nbsp; Flutter developer
 - 😴 &nbsp; I believe, a perfect nap can be the ultimate solution for any stress.
 
 Feel free to connect via email at "tushkwork@gmail.com." Let's collaborate and create something amazing! 😊🚀
